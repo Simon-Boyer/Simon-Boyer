@@ -1,4 +1,4 @@
-## Hi 👋, I am Simon Boyer, a DevOps consultant intern at [Arctiq](https://arctiq.ca/) and software engineering student at ![ÉTS](https://etsmtl.ca)
+## Hi 👋, I am Simon Boyer, a DevOps consultant intern at [Arctiq](https://arctiq.ca/) and software engineering student at [ÉTS](https://etsmtl.ca)
 
 <a href="https://www.linkedin.com/in/simon-boyer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://twitter.com/Sim_Boyer"> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> </a>
