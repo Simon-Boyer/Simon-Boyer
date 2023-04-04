@@ -6,7 +6,7 @@
 
 - Studying in Software Engineering at [École de technologie supérieure](https://etsmtl.ca), I plan to graduate in 2024
 - Passionate about backend programming and DevOps!
-- I spent to much time on my homeserver... SoonTM to be published here
+- I spent too much time on my homeserver... SoonTM to be published here
 
 
 ### Knowledge
