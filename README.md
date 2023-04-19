@@ -50,3 +50,5 @@
 - Red Hat Delivery Specialist - Container Platform Application Deployment
 - Red Hat Delivery Specialist - Container Platform Deployment
 - [Hashicorp Vault Implementation Foundations](https://hashicorp-academy-1.workramp.io/certificate/fbFLOom7vw)
+
+<a href="https://www.credly.com/badges/207df729-12d4-46cd-9fc1-207af9a74355/public_url"> <img src="https://images.credly.com/size/110x110/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png" /> </a>
