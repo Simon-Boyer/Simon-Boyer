@@ -46,7 +46,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
 
-### Certifications/Accreditatons
+### Certifications/Accreditations
 - Red Hat Delivery Specialist - Container Platform Application Deployment
 - Red Hat Delivery Specialist - Container Platform Deployment
 - [Hashicorp Vault Implementation Foundations](https://hashicorp-academy-1.workramp.io/certificate/fbFLOom7vw)
