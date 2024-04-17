@@ -53,6 +53,7 @@
 
 <div>
 <a href="https://www.credly.com/badges/207df729-12d4-46cd-9fc1-207af9a74355/public_url"><img height=110px src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" /></a>
+  <a href="https://www.credly.com/badges/c5934c7a-6369-41d0-9f4e-a925a0f62047/public_url"><img height=110px src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" /></a>
 <a href="https://www.credly.com/badges/f06f7a2c-55ad-4e07-b350-1b51311fe8c0/public_url"><img height=110px src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" /></a>
 <a href="https://www.credly.com/badges/1b3713a2-9fd7-4c4c-94b5-bfef56983b73/public_url"><img height=110px src="https://university.dynatrace.com/images/certification/Partner_Badge_Individual_FINAL-Associate.svg" /></a>
 <a href="https://www.credly.com/badges/202edeb7-03bf-4db1-91bc-38315f856506/public_url"><img height=110px src="https://images.credly.com/size/340x340/images/74906bef-749e-4e7e-b0a5-ae2f6eff5a06/image.png" /></a>
