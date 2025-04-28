@@ -1,10 +1,9 @@
-## Hi 👋, I am Simon Boyer, a DevOps consultant at [Arctiq](https://arctiq.ca/) and software engineering student at [ÉTS](https://etsmtl.ca)
+## Hi 👋, I am Simon Boyer, a DevOps consultant at [Arctiq](https://arctiq.ca/)
 
 <a href="https://www.linkedin.com/in/simon-boyer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://twitter.com/Sim_Boyer"> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> </a>
 <a href="https://mstdn.ca/@CodeGameEat"> <img src="https://img.shields.io/badge/mastodon-%233088D4.svg?&style=for-the-badge&logo=mastodon&logoColor=white" /> </a>
 
-- Studying in Software Engineering at [École de technologie supérieure](https://etsmtl.ca), I plan to graduate in 2025
 - Passionate about backend programming and DevOps!
 - I spent too much time on my homeserver... SoonTM to be published here
 
@@ -54,7 +53,7 @@
 <div>
 <a href="https://www.credly.com/badges/207df729-12d4-46cd-9fc1-207af9a74355/public_url"><img height=110px src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" /></a>
   <a href="https://www.credly.com/badges/c5934c7a-6369-41d0-9f4e-a925a0f62047/public_url"><img height=110px src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" /></a>
-<a href="https://www.credly.com/badges/f06f7a2c-55ad-4e07-b350-1b51311fe8c0/public_url"><img height=110px src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" /></a>
+<a href="https://www.credly.com/badges/f06f7a2c-55ad-4e07-b350-1b51311fe8c0/public_url"><img height=110px src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/image.png" /></a>
 <a href="https://www.credly.com/badges/1b3713a2-9fd7-4c4c-94b5-bfef56983b73/public_url"><img height=110px src="https://university.dynatrace.com/images/certification/Partner_Badge_Individual_FINAL-Associate.svg" /></a>
 <a href="https://www.credly.com/badges/202edeb7-03bf-4db1-91bc-38315f856506/public_url"><img height=110px src="https://images.credly.com/size/340x340/images/74906bef-749e-4e7e-b0a5-ae2f6eff5a06/image.png" /></a>
 </div>
