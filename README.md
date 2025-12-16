@@ -56,4 +56,5 @@
 <a href="https://www.credly.com/badges/f06f7a2c-55ad-4e07-b350-1b51311fe8c0/public_url"><img height=110px src="./tf-associate.png" /></a>
 <a href="https://www.credly.com/badges/1b3713a2-9fd7-4c4c-94b5-bfef56983b73/public_url"><img height=110px src="https://university.dynatrace.com/images/certification/Partner_Badge_Individual_FINAL-Associate.svg" /></a>
 <a href="https://www.credly.com/badges/202edeb7-03bf-4db1-91bc-38315f856506/public_url"><img height=110px src="https://images.credly.com/size/340x340/images/74906bef-749e-4e7e-b0a5-ae2f6eff5a06/image.png" /></a>
+  <a href="[https://www.credly.com/badges/202edeb7-03bf-4db1-91bc-38315f856506/public_url](https://www.credly.com/badges/231a0ede-542a-4795-9c7a-50e423d78f5a/public_url)"><img height=110px src="./cka-certified-kubernetes-administrator.png" /></a>
 </div>
