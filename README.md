@@ -14,6 +14,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?logo=dynatrace&logoColor=fff&style=for-the-badge)
 ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)
 <img src="https://img.shields.io/badge/elastic-%23005571.svg?&style=for-the-badge&logo=elastic&logoColor=white" />
 <img src="https://img.shields.io/badge/sumo%20logic-%23000099.svg?&style=for-the-badge&logo=sumo%20logic&logoColor=white" />
